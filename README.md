@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Victor Emanuel 👋</h1>
+<h1 align="center"> Victor Emanuel 👋 </h1>
 
 <p align="center">
   <b>Desenvolvedor ABAP Júnior | Foco em SAP S/4HANA & ECC</b><br>
-  Construindo soluções com ABAP Moderno (7.4+), CDS Views, ALV IDA e integração via ADT.
+  Construindo soluções com ABAP Moderno (7.4+), CDS Views, ALV e integração via ADT.
 </p>
 
 <p align="center">
