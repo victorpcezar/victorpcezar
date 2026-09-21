@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-emanuel-b36316230/" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-emanuel-pires/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:victorpires1011@hotmail.com">
