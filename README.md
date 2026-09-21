@@ -45,9 +45,3 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorpcezar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpcezar&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" />
-</div>
